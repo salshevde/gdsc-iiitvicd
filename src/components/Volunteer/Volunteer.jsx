@@ -11,10 +11,7 @@ const Volunteer = () => {
             <div className={"bg-leads-intro"}>
                 <h1>Meet The Volunteer</h1>
                 <p>
-                    Together, we craft a symphony of excellence, fostering an environment
-                    where collaboration is our driving force. Our shared journey lights
-                    the way, inspiring growth and etching our legacy as a testament to
-                    united aspirations.
+                    "Volunteers, together, we're like the dream team crafting excellence, all about that collaborative vibe that keeps us going. Our journey as volunteers is like our superpower, fueling growth and making our mark as a testament to what we can achieve when we dream big together." 
                 </p>
             </div>
             <div className={"bg-leads"}>
