@@ -7,19 +7,18 @@ const Footer = () => {
 
       <div className="contact">
         <a href="/" className="social-logo">
-          <SvgLogo name="github-footer" />
-        </a>
-
-        <a href="/" className="social-logo">
-          <SvgLogo name="linkedin-footer" />
+          <SvgLogo name="gmail-footer" />
         </a>
 
         <a href="/" className="social-logo">
           <SvgLogo name="instagram-footer" />
         </a>
+        <a href="/" className="social-logo">
+          <SvgLogo name="github-footer" />
+        </a>
 
         <a href="/" className="social-logo">
-          <SvgLogo name="gmail-footer" />
+          <SvgLogo name="linkedin-footer" />
         </a>
       </div>
 

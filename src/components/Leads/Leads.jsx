@@ -2,8 +2,8 @@ import React from "react";
 import image_bg from "/LeadsBackground.png";
 import "./Leads.scss";
 import {LeadsDB} from "./LeadsDB";
-import PeopleCard from "../PeopleCard/PeopleCard";
-import gdsc_lead_photo from "/leadsPhoto.png";
+import PeopleCard from "../Volunteer/PeopleCard/PeopleCard";
+import gdsc_lead_photo from "/LeadsPhotos/VedVekhande.jpeg";
 
 const Leads = () => {
     return (

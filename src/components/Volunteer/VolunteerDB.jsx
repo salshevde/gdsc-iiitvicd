@@ -1,103 +1,97 @@
 export const VolunteerDB = [
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/SaloniShevde.jpg",
         name: "Saloni Shevde",
-        domain: "Web-Dev Volunteer",
+        domain: "Web Dev Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/YuvrajChauhan.jpg",
         name: "Yuvraj Chauhan",
-        domain: "Web-Dev Volunteer",
+        domain: "Web Dev Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/SujalChauhan.jpg",
         name: "Sujal Chauhan",
-        domain: "App-Dev Volunteer",
+        domain: "App Dev Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/SanskarKoserwal.jpg",
         name: "Sanskar Koserwal",
-        domain: "App-Dev Volunteer",
+        domain: "App Dev Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/SiddharthNimbalkar.jpg",
         name: "Siddharth Nimbalkar",
         domain: "Management Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/AyushGangwar.jpg",
         name: "Ayush Gangwar",
         domain: "Management Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/SumedhaBaghmar.jpg",
         name: "Sumedha Baghmar",
         domain: "Management Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/AnayPandey.jpg",
         name: "Anay Pandey",
         domain: "Management Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/MokshArora.jpg",
         name: "Moksh Arora",
-        domain: "PR Volunteer",
+        domain: "Public Relations Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/VedMeena.jpg",
         name: "Ved Prakash Meena",
-        domain: "PR Volunteer",
+        domain: "Public Relations Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/TanayPatel.jpg",
         name: "Tanay Patel",
         domain: "UI/UX Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/DevrikhJatav.jpg",
         name: "Devrikh Jatav",
         domain: "UI/UX Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/OmniManwani.jpg",
         name: "Omni Manwani",
-        domain: "Women in Tech Volunteer",
+        domain: "Women-in Tech Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/InaratHussain.jpg",
         name: "Inarat Hussain",
-        domain: "Women in Tech Volunteer",
+        domain: "Women-in Tech Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/SrijanSharma.jpg",
         name: "Srijan Sharma",
         domain: "Technical Writing Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     },
     {
-        image: "/leadsPhoto.png",
+        image: "/volunteersPhotos/RajatThakur.jpg",
         name: "Rajat Kumar Thakur",
-        domain: "Open Source Volunteer",
-        contact: { github: '/link', linkedin: '/link' }
-    },
-    {
-        image: "/leadsPhoto.png",
-        name: "Pragya Pranati",
         domain: "Open Source Volunteer",
         contact: { github: '/link', linkedin: '/link' }
     }
